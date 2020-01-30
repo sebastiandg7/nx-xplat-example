@@ -10,5 +10,15 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "libs": {
+      "tags": []
+    },
+    "xplat": {
+      "tags": []
+    },
+    "nativescript-myapp": {
+      "tags": []
+    }
+  }
 }

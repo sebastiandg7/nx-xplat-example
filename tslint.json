@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "no-console": [true, "debug", "time", "timeEnd", "trace"],
+    "directive-selector": [true, "attribute", "MyOrg", "camelCase"],
+    "component-selector": [true, "element", "MyOrg", "kebab-case"]
+  }
+}
